@@ -1,7 +1,7 @@
 ## Hi there :heavy_check_mark:
 <br>
 
-Eu sou o Marcelo, atualmente aprendendo programação FrontEnd com HTML e CSS.
+Eu sou o Marcelo, atualmente aprendendo programação Full Stack com HTML, CSS, Node.js, React e Typescript
 <br>
 
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html" />
