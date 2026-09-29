@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Marcelo 👋
 
-Sou um **desenvolvedor Full Stack** em formação e apaixonado por transformar ideias em soluções digitais robustas e eficientes. Atualmente, estou focado em aprofundar meus conhecimentos e habilidades em um ecossistema moderno de desenvolvimento web.
+Sou um **Desenvolvedor Full Stack** em formação e apaixonado por transformar ideias em soluções digitais robustas e eficientes. Atualmente, estou focado em aprofundar meus conhecimentos e habilidades em um ecossistema moderno de desenvolvimento web.
 
 Minha jornada tem me levado a explorar e dominar tecnologias como:
 
