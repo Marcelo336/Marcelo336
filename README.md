@@ -18,9 +18,9 @@ Minha jornada tem me levado a explorar e dominar tecnologias como:
 
 Recentemente, desenvolvi o **DevBills**, um aplicativo completo de gestão financeira pessoal. Este projeto me permitiu aplicar todas as tecnologias mencionadas, desde a autenticação de usuários, gerenciamento de transações e visualização de dados com gráficos interativos, até a criação de uma API RESTful robusta.
 
-*   [Repositório DevBills Frontend](https://github.com/Marcelo336/devbills-interface) 
+*   [Repositório DevBills Frontend](https://github.com/Marcelo336/devbills-frontend) 
 
-*   [Repositório DevBills Backend](https://github.com/Marcelo336/devbills-api) 
+*   [Repositório DevBills Backend](https://github.com/Marcelo336/devbills-backend) 
 
 Também construí o **DevBurguer**, um sistema **full-stack** de delivery de lanches. No frontend, utilizei `React.js` com `Vite` e estilização via `Styled Components` para uma interface reativa e moderna. No backend, aprofundei minhas habilidades com `Node.js` e `Express.js`, gerenciando dados de produtos, categorias e usuários em `PostgreSQL` (com `Sequelize ORM`) e `MongoDB` (com `Mongoose ODM`). Um grande destaque foi a **containerização completa da aplicação com Docker e Docker Compose**, orquestrando tanto o frontend quanto o backend e seus bancos de dados em um ambiente robusto e escalável.
 
